@@ -1,0 +1,7 @@
+body
+{
+    text-align: center;
+    background-color: wheat;
+    width: 75%;
+    margin: auto;
+}
